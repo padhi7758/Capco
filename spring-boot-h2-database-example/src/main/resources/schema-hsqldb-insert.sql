@@ -1,0 +1,4 @@
+
+INSERT INTO EMPLOYEE VALUES (001001, 'Susanta', 'padhi');    
+INSERT INTO EMPLOYEE VALUES (001002, 'Ramesh', 'jena');    
+INSERT INTO EMPLOYEE VALUES (001003, 'Sima', 'jena');    
